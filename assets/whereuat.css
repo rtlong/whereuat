@@ -63,7 +63,7 @@
 }
 
 #uat-bar .wua-pop-over li {
-  padding: .9em .75em .75em 95px;
+  padding: .9em .75em .75em 25px;
   margin-bottom: 5px;
   position: relative;
 }
@@ -90,7 +90,7 @@
 }
 
 #uat-bar input {
-  clear: none;  
+  clear: none;
 }
 
 #uat-bar .wua-pop-over li a.wua-accept {
@@ -128,7 +128,7 @@
 #uat-bar .wua-pop-over li a.wua-pivotal {
   position: absolute;
   top: 0;
-  left: 60px;
+  left: 0px;
   display:block;
   width: 25px;
   height: 30px;
@@ -162,5 +162,5 @@
 
   left: 13px;
   top: 54px;
-            
+
 }
